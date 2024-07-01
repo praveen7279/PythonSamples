@@ -1,1 +1,3 @@
 sample files
+
+var string =""
