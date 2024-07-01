@@ -1,3 +1,6 @@
 sample files
 
-var string =""
+a = 'kentucky'
+b = 'ohio'
+print (a+b)
+
